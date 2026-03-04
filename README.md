@@ -1,5 +1,8 @@
 # 💫 About Me:
-Passionate about programming and problem-solving. Previously focused on C/C++ for algorithmic practice; now diving into intermediate Python and hands-on machine learning model implementation. Always learning, always building.
+Passionate about programming and problem-solving.  
+Currently working on Machine Learning, Deep Learning, NLP, and Computer Vision.  
+
+I enjoy building real-world ML projects, experimenting with models, and contributing to research. Always learning, always building.
 
 
 # 💻 Tech Stack:
