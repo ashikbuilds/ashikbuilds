@@ -183,14 +183,28 @@ Hands-on implementation of LLM applications using LangChain, Groq, agents, tools
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikbuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+  <a href="https://github.com/ashikbuilds">
+    <img src="https://img.shields.io/github/followers/ashikbuilds?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+  </a>
+
+  <a href="https://github.com/ashikbuilds?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+
+  <a href="https://github.com/ashikbuilds">
+    <img src="https://img.shields.io/github/stars/ashikbuilds?style=for-the-badge&logo=github&label=Profile%20Stars" alt="GitHub Stars"/>
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikbuilds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/ashikbuilds">
+    <img src="https://img.shields.io/badge/GitHub-ashikbuilds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
